@@ -1,3 +1,3 @@
-# Uebung
+# Reiseapp
 
-Die Read-Me Datei.
+Eine App zur Planung einer Reise mit Buchung des Hotels und Transportmittel dorthin.
